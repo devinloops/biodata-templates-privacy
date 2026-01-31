@@ -1,7 +1,5 @@
 Privacy Policy – Biodata Templates
 
-Last updated: (you can add today’s date or remove this line)
-
 Biodata Templates is a simple application that provides biodata templates for personal use.
 
 Information Collection and Use
